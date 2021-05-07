@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/main.css" />
+    <script src="scripts/main.js"></script>
+    <title>First Portfolio</title>
+  </head>
+  <body>
+    <div class="presentation">
+      <h1 class="name_text">The Name Is Juan Hurtado</h1>
+      <h1 class="create_text">I Create Software</h1>
+      <h1 class="cool_text">Cool Software</h1>
+    </div>
+    <div class="content">
+      <div class="container">
+        <div class="nav-items">
+          <a href="#" onclick="changeContent('Projects')">Projects</a>
+          <a href="#" onclick="changeContent('About Me')">About Me</a>
+          <a href="#" onclick="changeContent('Contact')">Contact</a>
+        </div>
+
+        <!--Content: -->
+        <div id="current" class="current">
+          <!--Projects-->
+          <h2>MNIST Classifier</h2>
+          <div class="image-container">
+            <img
+              src="Assets/mnist_digital.png"
+              alt="MNIST Image"
+              width="100%"
+              height="100%"
+            />
+          </div>
+          <p class="des_project">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti
+            consequuntur laboriosam saepe accusantium provident perspiciatis
+            libero earum
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

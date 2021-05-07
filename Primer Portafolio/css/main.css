@@ -1,0 +1,138 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.name_text {
+  color: #414141;
+}
+
+.create_text {
+  color: #0066FF;
+}
+
+.presentation {
+  font-family: Milk;
+  font-size: 2em;
+  width: 50%;
+  margin: auto 0;
+  padding: 2em;
+}
+
+.presentation h1 {
+  padding: 0 0.5em;
+  margin: 0;
+}
+
+.content {
+  height: 100vh;
+  background: url("../Assets/Trazado_1.svg") no-repeat;
+  background-size: cover;
+  margin: auto 0;
+  width: 50%;
+}
+
+.container {
+  margin: auto 0;
+  padding-left: 6em;
+  height: 95%;
+}
+
+.current {
+  height: auto;
+  margin: 0 7em;
+  font-family: "DM Sans";
+  font-weight: bold;
+}
+
+.current ul {
+  list-style-type: disc;
+  color: #FFF;
+}
+
+.current p, .current h2 {
+  color: #FFF;
+  font-size: 1.5rem;
+}
+
+.current h2 {
+  font-size: 1.8rem;
+}
+
+.current .info-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: auto 0;
+  font-size: 1.3em;
+}
+
+.current .contact {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.current .image-block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 142px;
+  height: 142px;
+  background-color: #FFF;
+  border-radius: 10%;
+}
+
+.current .image-block img {
+  border-radius: 5%;
+}
+
+.current .image-block a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.nav-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: auto 0;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.nav-items a:hover {
+  color: #00e1ff;
+}
+
+.nav-items a {
+  color: #FFFFFF;
+  font-family: Tahoma;
+  font-style: Regular;
+  display: block;
+  padding: 2em 0;
+  font-size: 1.25em;
+}
+
+a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=main.css.map */
