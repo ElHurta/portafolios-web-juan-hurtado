@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="852.618" viewBox="0 0 1920 852.618">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.148" y1="0.979" x2="1.098" y2="-0.062" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#922ff5"/>
+      <stop offset="1" stop-color="#009ea4"/>
+    </linearGradient>
+  </defs>
+  <path id="Trazado_10" data-name="Trazado 10" d="M-.425,1810.9s259.978,120.816,601.686,122.59c190.894.991,409.13-47.925,617.916-145.825,581.577-272.7,700.4-36.753,700.4-36.753l-1.438-670.025H-.425Z" transform="translate(0.425 -1080.888)" fill="url(#linear-gradient)"/>
+</svg>
