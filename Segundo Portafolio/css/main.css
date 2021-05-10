@@ -54,7 +54,6 @@
   text-align: justify;
   color: #FFF;
   font-family: "DM Sans";
-  font-variant: "Medium";
   font-weight: 500;
 }
 
@@ -74,6 +73,100 @@
   height: 100vh;
   margin: auto 0;
   width: 100vw;
+}
+
+.skills-section h2 {
+  margin: 0;
+  padding: 0.1em 0.9em;
+  font-family: Exo;
+  font-weight: bold;
+  color: #772AEC;
+  font-size: 4.2em;
+}
+
+.skill-big-cont {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.skill-big-cont .skill-cont {
+  width: 45%;
+  padding: 0 5em;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.skill-big-cont .skill-cont p {
+  color: #6F25F1;
+  font-family: "DM Sans";
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.skill-big-cont .skill-cont .container {
+  width: 100%;
+  height: 40px;
+  background-color: #172F61;
+  border-radius: 50px;
+}
+
+.skill-big-cont .skill-cont .pro {
+  border-radius: 50px;
+  height: 40px;
+  background-color: #6F25F1;
+}
+
+.skill-big-cont .skill-cont .pro.wd {
+  width: 65%;
+}
+
+.skill-big-cont .skill-cont .pro.py {
+  width: 80%;
+}
+
+.skill-big-cont .skill-cont .pro.java {
+  width: 60%;
+}
+
+.skill-big-cont .skill-cont .pro.cplus {
+  width: 52%;
+}
+
+.skill-big-cont .skill-cont .pro.xd {
+  width: 63%;
+}
+
+.skill-big-cont .skill-cont .pro.ai {
+  width: 45%;
+}
+
+.skill-big-cont .skill-cont .pro.ps {
+  width: 70%;
+}
+
+.skill-big-cont .skill-cont .pro.pr {
+  width: 65%;
+}
+
+.skill-big-cont .skill-cont .pro.ml {
+  width: 60%;
+}
+
+.skill-big-cont .skill-cont .pro.dl {
+  width: 75%;
+}
+
+.about-section {
+  height: 100vh;
+  margin: auto 0;
+  width: 100vw;
+  background: url("../Assets/Trazado 13.svg") no-repeat;
+  background-size: cover;
 }
 
 .title-container {
