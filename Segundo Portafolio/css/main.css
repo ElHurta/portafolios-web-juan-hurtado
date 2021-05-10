@@ -14,6 +14,62 @@
   width: 100vw;
 }
 
+.projects-section h2 {
+  margin: 0;
+  padding: 0.9em;
+  font-family: Exo;
+  font-weight: bold;
+  color: #FFF;
+  font-size: 4.2em;
+}
+
+.project-cards {
+  text-align: center;
+  margin: 0;
+  padding: 0 5em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.project-cards .card {
+  margin: 0 2em;
+  background: #fb9e35;
+  background: -webkit-gradient(linear, left bottom, left top, from(#fb9e35), to(#ff504f));
+  background: linear-gradient(0deg, #fb9e35 0%, #ff504f 100%);
+  box-shadow: 11px 17px 42px -19px rgba(0, 0, 0, 0.91);
+  -webkit-box-shadow: 11px 17px 42px -19px rgba(0, 0, 0, 0.91);
+  -moz-box-shadow: 11px 17px 42px -19px rgba(0, 0, 0, 0.91);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fb9e35",endColorstr="#ff504f",GradientType=1);
+  border-radius: 5%;
+  padding: 2% 2%;
+  width: 420px;
+  height: 550px;
+}
+
+.project-cards .card p {
+  text-align: justify;
+  color: #FFF;
+  font-family: "DM Sans";
+  font-variant: "Medium";
+  font-weight: 500;
+}
+
+.project-cards .card img {
+  border-radius: 5%;
+}
+
+.project-cards .card h3 {
+  text-align: left;
+  font-family: Exo;
+  font-weight: bold;
+  color: #FFF;
+  font-size: 2em;
+}
+
 .skills-section {
   height: 100vh;
   margin: auto 0;
