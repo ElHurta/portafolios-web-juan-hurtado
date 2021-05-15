@@ -255,7 +255,7 @@
 .contact-section .contact-container div h3 {
   margin: 0;
   padding: 0;
-  padding-top: 1em;
+  padding-top: 0.6em;
   padding-bottom: 0.5em;
   font-family: "DM Sans";
   font-weight: bold;
@@ -265,18 +265,89 @@
 
 .contact-section .contact-container div .email, .contact-section .contact-container div .message {
   border-radius: 15px;
-  width: 45%;
+  width: 75%;
   padding: 3px;
+}
+
+.contact-section .contact-container div button {
+  color: #000;
+  background-color: #82EAFF;
+  font-family: "DM Sans";
+  font-weight: bold;
+  font-size: 1.2em;
+  width: 90px;
+  height: 30px;
+  border-radius: 50px;
+  border-style: none;
 }
 
 .contact-section .contact-container .networks {
   background: #545beb;
   background: linear-gradient(155deg, #545beb 0%, #34a2e1 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#545beb",endColorstr="#34a2e1",GradientType=1);
+  border-radius: 15px;
+  color: #FFF;
+}
+
+.contact-section .contact-container .networks .nets {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 0.5em;
+}
+
+.contact-section .contact-container .networks .image-block {
+  margin: 0 0.5em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 130px;
+  height: 130px;
+  background-color: #FFF;
+  border-radius: 10%;
+}
+
+.contact-section .contact-container .networks .image-block img {
+  border-radius: 5%;
+}
+
+.contact-section .contact-container .networks .image-block a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.contact-section .contact-container .networks p {
+  color: #ffffff;
+  font-family: "DM Sans";
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-top: 0.3em;
+  padding-left: 0.7em;
+}
+
+.contact-section .contact-container .networks h4 {
+  padding: 0;
+  padding-left: 0.45em;
 }
 
 .contact-section .contact-container .networks h3 {
   font-size: 3.2em;
+  padding-left: 0.3em;
+  margin-right: 4.5em;
 }
 
 .title-container {
