@@ -1,0 +1,83 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+<defs/>
+<g><path transform='translate(320, 480)' stroke='none' fill='#A2004A' d='M32 32 Q18.75 32 9.4 22.65 0 13.25 0 0 L32 0 32 32'/>
+<path transform='translate(352, 448)' stroke='none' fill='#A2004A' d='M0 32 Q0 18.75 9.35 9.4 18.75 0 32 0 L32 32 0 32'/>
+<path transform='translate(352, 480)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(352, 512)' stroke='none' fill='#860055' d='M32 32 L16 32 16 16 0 16 0 0 32 0 32 32'/>
+<path transform='translate(384, 448)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(384, 480)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(384, 512)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(384, 544)' stroke='none' fill='#860055' d='M32 32 L16 32 16 16 0 16 0 0 32 0 32 32'/>
+<path transform='translate(416, 320)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(416, 352)' stroke='none' fill='#F9D313' d='M32 32 Q18.75 32 9.4 22.65 0 13.25 0 0 L32 0 32 32'/>
+<path transform='translate(416, 448)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(416, 480)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(416, 512)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(416, 544)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(416, 576)' stroke='none' fill='#860055' d='M32 32 L16 32 16 16 0 16 0 0 32 0 32 32'/>
+<path transform='translate(448, 320)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(448, 352)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(448, 384)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(448, 416)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(448, 448)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(448, 480)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(448, 512)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(448, 544)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(448, 576)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(448, 608)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(448, 640)' stroke='none' fill='#860055' d='M0 0 L16 0 16 32 0 32 0 0'/>
+<path transform='translate(480, 320)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 352)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 384)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 416)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 448)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 480)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 512)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 544)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 576)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 608)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 640)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 672)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(480, 704)' stroke='none' fill='#860055' d='M32 32 L16 32 16 0 32 0 32 32'/>
+<path transform='translate(480, 736)' stroke='none' fill='#860055' d='M32 32 L16 32 16 0 32 0 32 32'/>
+<path transform='translate(512, 320)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 352)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 384)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 416)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 448)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 480)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 512)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 544)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 576)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 608)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 640)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(512, 672)' stroke='none' fill='#860055' d='M0 0 L16 0 16 32 0 32 0 0'/>
+<path transform='translate(544, 320)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(544, 352)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(544, 384)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(544, 416)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(544, 448)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(544, 480)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(544, 512)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(544, 544)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(544, 576)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(544, 608)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(544, 640)' stroke='none' fill='#860055' d='M32 32 L16 32 16 0 32 0 32 32'/>
+<path transform='translate(544, 672)' stroke='none' fill='#860055' d='M32 32 L16 32 16 0 32 0 32 32'/>
+<path transform='translate(576, 320)' stroke='none' fill='#F9D313' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(576, 352)' stroke='none' fill='#F9D313' d='M32 0 Q32 13.25 22.65 22.6 13.25 32 0 32 L0 0 32 0'/>
+<path transform='translate(576, 448)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(576, 480)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(576, 512)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(576, 544)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(576, 576)' stroke='none' fill='#860055' d='M32 0 L32 16 16 16 16 32 0 32 0 0 32 0'/>
+<path transform='translate(608, 448)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(608, 480)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(608, 512)' stroke='none' fill='#860055' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(608, 544)' stroke='none' fill='#860055' d='M32 0 L32 16 16 16 16 32 0 32 0 0 32 0'/>
+<path transform='translate(640, 448)' stroke='none' fill='#A2004A' d='M0 0 Q13.25 0 22.6 9.35 32 18.75 32 32 L0 32 0 0'/>
+<path transform='translate(640, 480)' stroke='none' fill='#A2004A' d='M0 0 L32 0 32 32 0 32 0 0'/>
+<path transform='translate(640, 512)' stroke='none' fill='#860055' d='M32 0 L32 16 16 16 16 32 0 32 0 0 32 0'/>
+<path transform='translate(672, 480)' stroke='none' fill='#A2004A' d='M32 0 Q32 13.25 22.65 22.6 13.25 32 0 32 L0 0 32 0'/>
+</g>
+</svg>
